@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dara\\source\\repos\\Lab_5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C820E26E-019B-43BD-B99F-95691C9FA064}|Lab_5.3\\Lab_5.3.vcxproj|C:\\Users\\Dara\\source\\repos\\Lab_5.3\\Lab_5.3\\Lab_5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C820E26E-019B-43BD-B99F-95691C9FA064}|Lab_5.3\\Lab_5.3.vcxproj|solutionrelative:Lab_5.3\\Lab_5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F9F04-4A43-4425-9AC9-C9D764830123}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Dara\\source\\repos\\Lab_5.3\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{405F9F04-4A43-4425-9AC9-C9D764830123}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Dara\\source\\repos\\Lab_5.3\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Dara\\source\\repos\\Lab_5.3\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T22:20:30.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_5.3.cpp",
+              "DocumentMoniker": "C:\\Users\\Dara\\source\\repos\\Lab_5.3\\Lab_5.3\\Lab_5.3.cpp",
+              "RelativeDocumentMoniker": "Lab_5.3\\Lab_5.3.cpp",
+              "ToolTip": "C:\\Users\\Dara\\source\\repos\\Lab_5.3\\Lab_5.3\\Lab_5.3.cpp",
+              "RelativeToolTip": "Lab_5.3\\Lab_5.3.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T21:04:54.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
